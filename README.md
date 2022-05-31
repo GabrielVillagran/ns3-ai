@@ -1,6 +1,4 @@
-Installation guide to install ns3-ai 
-
-**Here you can find my reports about the project ns3-ai**
+**Here you can find my reports about the project ns3-ai and the installation guide**
 ---
 This guide were developed using the tutorial powered by NS3, Yin, Hao and Liu to enable the interaction between ns3 and AI frameworks uding python.
 
